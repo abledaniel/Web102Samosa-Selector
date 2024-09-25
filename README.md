@@ -12,6 +12,6 @@ Here's an example of the Lab Working:
 
 Have a Nice Day   
 
-![Happy](https://github.com/abledaniel/Web102Samosa-Selector/blob/master/src/assets/happy2.png)
+<img src="https://github.com/abledaniel/Web102Samosa-Selector/blob/master/src/assets/happy2.png" width="150" height="150">
                                
 ### *Designed and Coded by* **Abel**
